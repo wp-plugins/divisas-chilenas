@@ -1,0 +1,13 @@
+.widget_divisas_cl {
+
+}
+.widget_divisas_cl li {
+	clear: both;
+}
+.divisas_cl_nombre {
+	float: left;
+	font-weight: bold;
+}
+.divisas_cl_valor {
+	float: right;
+}
